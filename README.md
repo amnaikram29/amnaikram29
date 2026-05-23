@@ -22,10 +22,10 @@ I help startups go from idea to launched product, fast.
 
 ## Things I've shipped
 
-→ **Outreach SaaS platform** used by 200+ sales teams with GPT-4 personalization engine *(Smart Focus AI — UK)*  
-→ **Property management SaaS MVP** listings, leases, e-signatures, AI insights dashboard, Stripe payments *(PropertEase — Luxembourg)*  
-→ **GPT-4 knowledge base chatbot** & analytics platform for financial professionals *(NexusAIMS — Luxembourg)*  
-→ **Travel collaboration platform** with AI trip assistant, maps, and multi-region deployment *(NOMAD360 — Netherlands)*  
+→ **Outreach SaaS platform** used by 200+ sales teams with GPT-4 personalization engine  
+→ **Property management SaaS MVP** listings, leases, e-signatures, AI insights dashboard, Stripe payments  
+→ **GPT-4 knowledge base chatbot** & analytics platform for financial professionals  
+→ **Travel collaboration platform** with AI trip assistant, maps, and multi-region deployment  
 → **Autonomous email agent** classifies, routes & drafts Gmail replies with human-in-the-loop approval
 
 ---
