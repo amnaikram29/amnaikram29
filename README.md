@@ -67,7 +67,7 @@ I help startups go from idea to launched product — fast.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amna-ikram-2b2037171/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1D9E75?style=flat&logo=vercel&logoColor=white)](https://amnaikram-dev-folio.lovable.app/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)]([https://www.upwork.com](https://www.upwork.com/freelancers/~0101f7120c9afb5b94)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)]([https://www.upwork.com](https://www.upwork.com/freelancers/~0101f7120c9afb5b94))
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:amnaikram29@gmail.com)
 
 📬 Message me with your use case — I'll give you a clear scope, approach, and timeline within 24 hours.
