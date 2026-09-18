@@ -70,7 +70,7 @@ I help startups go from idea to launched product, fast.
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/amna-ikram-2b2037171/)
-[Portfolio](https://amnaikram-dev-folio.lovable.app/)
+[Portfolio](https://amnaikram.vercel.app/)
 [Upwork](https://www.upwork.com/freelancers/~0101f7120c9afb5b94)
 [Email](mailto:amnaikram29@gmail.com)
 
